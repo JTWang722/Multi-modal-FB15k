@@ -8,4 +8,8 @@ To find the appropriate imgaes of each entity, I
 - Seek out the corresponding Wikipedia page and crawl down the images. 
 - Filter out irrelevant images of each entity.
 
-If you want to know more detailed information, just email me at jtwang@seu.edu.cn!
+Please click at https://drive.google.com/file/d/16fMV4uzT1r82FANo0L1uipMr2rSQNFkP/view?usp=sharing to get this dataset.
+
+If you want to know more detailed information, just email me at jtwang@seu.edu.cn~~
+
+Hope you have a good day!
