@@ -12,4 +12,4 @@ Please click at https://drive.google.com/file/d/16fMV4uzT1r82FANo0L1uipMr2rSQNFk
 
 If you want to know more detailed information, just email me at jtwang@seu.edu.cn~~
 
-Hope you have a good day!
+Have a good day!
